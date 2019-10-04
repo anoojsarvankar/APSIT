@@ -6,7 +6,15 @@
 	background-image: linear-gradient(to right, black, gray);
 	text-align:center;
 	color:white;
-	
+}
+.gradient-black1{
+	background-image: linear-gradient(to right, gray, gray);
+	text-align:center;
+	color:white;
+
+}
+.orange{
+	background-image: linear-gradient(to right, #b52d18,#b52d18);
 }
 #Mainpage1{
 	color:white;
@@ -14,4 +22,8 @@
 #Mainpage2 {
 	padding:15px;
 	min-width:95%;
+}
+#Mainpage3 {
+	padding:15px;
+	min-width:100%;
 }
